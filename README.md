@@ -6,6 +6,14 @@
 The REVATURE SHOPPING APPLICATION is a console-based menu driven application that simulates online shopping experience. An employee can add Products. A Customer can place order on the products. The employee delivers the Product to the Customer.
 
 
+## Technologies Used
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+The REVATURE SHOPPING APPLICATION is a console-based menu driven application that simulates online shopping experience. An employee can add Products. A Customer can place order on the products. The employee delivers the Product to the Customer.
+
 
 ## Requirements
 1. Functionality should reflect the below user stories.
