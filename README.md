@@ -1,1 +1,2 @@
-# revature-proj-online-shopping
+## REVATURE SHOPPING APPLICATION
+#Project Description
