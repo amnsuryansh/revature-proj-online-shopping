@@ -1,5 +1,5 @@
-## REVATURE SHOPPING APPLICATION
-# Online Shopping
+# REVATURE SHOPPING APPLICATION
+
 
 ## Description
 
