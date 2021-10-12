@@ -7,15 +7,16 @@ The REVATURE SHOPPING APPLICATION is a console-based menu driven application tha
 
 
 ## Technologies Used
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* Java OOPs
+* Maven
+* JDBC
+* MySQL
+* Log4J
+* JUnit
+* Exception Handling
 
-The REVATURE SHOPPING APPLICATION is a console-based menu driven application that simulates online shopping experience. An employee can add Products. A Customer can place order on the products. The employee delivers the Product to the Customer.
 
-
-## Requirements
+<!-- ## Requirements
 1. Functionality should reflect the below user stories.
 2. Data is stored in a database.
 3. Data Access is performed through the use of JDBC in a data layer consisting of Data Access Objects.
@@ -24,10 +25,10 @@ The REVATURE SHOPPING APPLICATION is a console-based menu driven application tha
 6. All input is received using the java.util.Scanner class.
 7. Log4j is implemented to log events to a file.
 8. A minimum of 10 JUnit test is written to test some functionality.
+ -->
+## FEATURES
 
-## User Stories
-
-|#|User Story
+|#|FEATURES (USER STORIES)
 |-----|-----|
 |1|As an user, I can login.
 |2|As a employee, I can add a new product.
