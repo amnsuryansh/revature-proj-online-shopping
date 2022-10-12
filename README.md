@@ -1,9 +1,9 @@
-# REVATURE SHOPPING APPLICATION
+# SHOPIFY
 
 
 ## Description
 
-The REVATURE SHOPPING APPLICATION is a console-based menu driven application that simulates online shopping experience. An employee can add Products. A Customer can place order on the products. The employee delivers the Product to the Customer.
+The SHOPIFY APPLICATION is a console-based menu driven application that simulates online shopping experience. An employee can add Products. A Customer can place order on the products. The employee delivers the Product to the Customer.
 
 
 ## Technologies Used
